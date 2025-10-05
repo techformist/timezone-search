@@ -57,7 +57,53 @@ function initializeFuse() {
 }
 
 /**
- * Searches for timezones based on the provided query
+ * Custom scoring function that prioritizes abbreviation matches
+ * @param {string} query - The search term
+ * @param {Object} item - The timezone item to score
+ * @param {number} fuseScore - The original Fuse.js score (lower is better)
+ * @returns {number} Custom score (lower is better)
+ */
+function calculateCustomScore(query, item, fuseScore) {
+  const queryLower = query.toLowerCase();
+  const queryUpper = query.toUpperCase();
+  
+  // Parse abbreviations into array
+  const abbreviations = item.abbreviations ? item.abbreviations.split(',') : [];
+  
+  // Priority 1: Exact abbreviation match (best score)
+  if (abbreviations.includes(queryUpper)) {
+    return 0.01; // Highest priority
+  }
+  
+  // Priority 2: Partial abbreviation match
+  const hasPartialAbbrevMatch = abbreviations.some(abbr => 
+    abbr.toLowerCase().includes(queryLower) || queryLower.includes(abbr.toLowerCase())
+  );
+  if (hasPartialAbbrevMatch) {
+    return 0.1 + (fuseScore * 0.1); // High priority with slight Fuse influence
+  }
+  
+  // Priority 3: Exact city match
+  if (item.city.toLowerCase() === queryLower) {
+    return 0.5 + (fuseScore * 0.1); // Medium priority
+  }
+  
+  // Priority 4: Exact country match
+  if (item.countryName.toLowerCase() === queryLower) {
+    return 0.6 + (fuseScore * 0.1); // Medium priority
+  }
+  
+  // Priority 5: Exact IANA match
+  if (item.iana.toLowerCase() === queryLower) {
+    return 0.7 + (fuseScore * 0.1); // Medium-low priority
+  }
+  
+  // Priority 6: All other matches use Fuse score + penalty
+  return 1.0 + fuseScore; // Lower priority, rely on Fuse fuzzy matching
+}
+
+/**
+ * Searches for timezones based on the provided query with intelligent prioritization
  * @param {string} query - The search term
  * @param {Object} options - Search options
  * @param {number} options.limit - Maximum number of results to return (default: 20)
@@ -83,10 +129,21 @@ function search(query, options = {}) {
   // Perform the search
   const results = fuseInstance.search(query);
   
-  // Extract just the item data (without Fuse metadata) and apply limit
-  return results
+  // Apply custom scoring and sort
+  const scoredResults = results
+    .map(result => ({
+      ...result.item,
+      customScore: calculateCustomScore(query, result.item, result.score || 1)
+    }))
+    .sort((a, b) => a.customScore - b.customScore) // Lower score = higher priority
     .slice(0, limit)
-    .map(result => result.item);
+    .map(result => {
+      // Remove the customScore property from final results
+      const { customScore, ...item } = result;
+      return item;
+    });
+  
+  return scoredResults;
 }
 
 module.exports = {

@@ -80,6 +80,33 @@ describe('timezone-search', () => {
       const mmtResult = results.find(tz => tz.abbreviations.includes('MMT'));
       expect(mmtResult).toBeDefined();
     });
+
+    test('should prioritize abbreviation matches over city matches', () => {
+      const results = search('IST');
+      expect(results.length).toBeGreaterThan(0);
+      // First result should be a timezone with IST abbreviation, not Istanbul city
+      const firstResult = results[0];
+      expect(firstResult.abbreviations).toContain('IST');
+      expect(firstResult.city).not.toBe('Istanbul');
+    });
+
+    test('should prioritize exact abbreviation matches', () => {
+      const results = search('EST');
+      expect(results.length).toBeGreaterThan(0);
+      // All top results should have EST as an exact abbreviation match
+      const topResults = results.slice(0, 3);
+      topResults.forEach(result => {
+        expect(result.abbreviations.split(',')).toContain('EST');
+      });
+    });
+
+    test('should handle exact city matches with medium priority', () => {
+      const results = search('Tokyo');
+      expect(results.length).toBeGreaterThan(0);
+      const firstResult = results[0];
+      expect(firstResult.city).toBe('Tokyo');
+      expect(firstResult.iana).toBe('Asia/Tokyo');
+    });
   });
 
   describe('Result structure validation', () => {

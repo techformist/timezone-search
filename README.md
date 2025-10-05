@@ -9,10 +9,11 @@ An intelligent, zero-config NPM package for fuzzy searching IANA timezones by ci
 ## Features
 
 - 🚀 **Zero Configuration**: Works instantly after installation - no setup required
-- ✨ **Complete Abbreviation Support**: Search by timezone abbreviations (EST, PST, AEST, JST, GMT, etc.) with prioritized results
+- 🧠 **Intelligent Prioritization**: Smart search ranking that prioritizes abbreviation matches over city/country matches
+- ✨ **Complete Abbreviation Support**: Search by timezone abbreviations (EST, PST, AEST, JST, GMT, etc.) with exact match priority
 - 🔍 **Fuzzy Search**: Find timezones even with typos or partial matches
 - 🌍 **Multiple Search Types**: Search by city name, country, IANA timezone name, or abbreviations
-- ⚡ **Fast Performance**: Optimized search with weighted results (abbreviations prioritized highest)
+- ⚡ **Fast Performance**: Optimized search with custom scoring algorithm
 - 📦 **Self-Contained**: No external dependencies except Fuse.js - includes complete timezone database (597 timezones)
 - 🎯 **Rich Results**: Returns comprehensive timezone information including UTC offsets, country data, and abbreviations
 - 📘 **TypeScript Support**: Full type definitions included for enhanced developer experience
@@ -172,30 +173,45 @@ Each result object contains the following properties:
 }
 ```
 
+## Intelligent Search Prioritization
+
+**timezone-search** uses a smart scoring algorithm that prioritizes results in the following order:
+
+1. **Exact abbreviation match** (highest priority) - `IST` → India Standard Time zones first
+2. **Partial abbreviation match** (high priority) - `EST` in abbreviations  
+3. **Exact city match** (medium priority) - `Tokyo` → Asia/Tokyo
+4. **Exact country match** (medium priority) - `Japan` → Japanese timezones
+5. **Exact IANA match** (medium-low priority) - `Asia/Tokyo`
+6. **Fuzzy matches** (lower priority) - Typos, partial matches, etc.
+
+This means when you search for `IST`, you get India Standard Time zones first, not Istanbul!
+
 ## Search Examples
 
-### 🔥 NEW: By Timezone Abbreviations (Highest Priority)
+### 🔥 Intelligent Abbreviation Search (Highest Priority)
 
 ```javascript
+// 🧠 Smart prioritization in action!
+
+// IST = India Standard Time (abbreviation match wins over Istanbul city)
+timezoneSearch.search("IST");
+// Returns: Israel, Jerusalem, Tel Aviv (IST abbreviation) - NOT Istanbul!
+
+// EST = Eastern Standard Time (abbreviation matches first)
+timezoneSearch.search("EST");
+// Returns: EST, EST5EDT, Eastern zones (all have EST abbreviation)
+
 // Australian Eastern Standard Time
 timezoneSearch.search("AEST");
-// Returns: Sydney, Melbourne, Brisbane, Hobart, etc.
+// Returns: Sydney, Melbourne, Brisbane (all have AEST abbreviation)
 
-// Eastern Standard Time (US/Canada)
-timezoneSearch.search("EST");
-// Returns: New York, Toronto, Montreal, etc.
-
-// Pacific Standard Time
+// Pacific Standard Time 
 timezoneSearch.search("PST");
-// Returns: Los Angeles, Vancouver, etc.
+// Returns: PST8PDT, Boise, Juneau (all have PST abbreviation)
 
 // Japan Standard Time
 timezoneSearch.search("JST");
-// Returns: Tokyo, Osaka, etc.
-
-// Central European Time
-timezoneSearch.search("CET");
-// Returns: Paris, Berlin, Rome, etc.
+// Returns: Tokyo zones (JST abbreviation match)
 
 // Greenwich Mean Time
 timezoneSearch.search("GMT");

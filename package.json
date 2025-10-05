@@ -1,6 +1,6 @@
 {
   "name": "timezone-search",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "An intelligent, zero-config NPM package for fuzzy searching IANA timezones by city, country, abbreviation, or IANA name. Just install and find the time, anywhere.",
   "main": "index.js",
   "module": "index.mjs",
