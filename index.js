@@ -72,7 +72,9 @@ function calculateCustomScore(query, item, fuseScore) {
   
   // Priority 1: Exact abbreviation match (best score)
   if (abbreviations.includes(queryUpper)) {
-    return 0.01; // Highest priority
+    // For exact abbreviation matches, use data order only (no Fuse score influence)
+    // This ensures IST matches from India, Israel, Ireland etc. are all treated equally
+    return 0.01; // Pure equality for exact abbreviation matches
   }
   
   // Priority 2: Partial abbreviation match
@@ -129,17 +131,32 @@ function search(query, options = {}) {
   // Perform the search
   const results = fuseInstance.search(query);
   
+  // Get original data for index-based tie-breaking
+  const originalData = getTimezoneData();
+  
   // Apply custom scoring and sort
   const scoredResults = results
-    .map(result => ({
-      ...result.item,
-      customScore: calculateCustomScore(query, result.item, result.score || 1)
-    }))
-    .sort((a, b) => a.customScore - b.customScore) // Lower score = higher priority
+    .map(result => {
+      // Find the original index of this item for tie-breaking
+      const originalIndex = originalData.findIndex(item => item.iana === result.item.iana);
+      return {
+        ...result.item,
+        customScore: calculateCustomScore(query, result.item, result.score || 1),
+        originalIndex: originalIndex
+      };
+    })
+    .sort((a, b) => {
+      // Primary sort: custom score (lower is better)
+      if (a.customScore !== b.customScore) {
+        return a.customScore - b.customScore;
+      }
+      // Tie-breaker: original data order (lower index = earlier in data = higher priority)
+      return a.originalIndex - b.originalIndex;
+    })
     .slice(0, limit)
     .map(result => {
-      // Remove the customScore property from final results
-      const { customScore, ...item } = result;
+      // Remove the scoring properties from final results
+      const { customScore, originalIndex, ...item } = result;
       return item;
     });
   
