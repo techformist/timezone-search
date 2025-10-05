@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "An intelligent, zero-config NPM package for fuzzy searching IANA timezones by city, country, abbreviation, or IANA name. Just install and find the time, anywhere.",
   "main": "index.js",
-  "module": "index.mjs", 
+  "module": "index.mjs",
   "types": "index.d.ts",
   "exports": {
     ".": {
@@ -61,7 +61,8 @@
     "index.d.ts",
     "data/",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "BUNDLER-CONFIG.md"
   ],
   "engines": {
     "node": ">=14.0.0"
