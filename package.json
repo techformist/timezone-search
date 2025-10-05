@@ -1,0 +1,33 @@
+{
+  "name": "timezone-search",
+  "version": "0.1.0",
+  "description": "An intelligent, zero-config NPM package for fuzzy searching IANA timezones by city, country, abbreviation, or IANA name. Just install and find the time, anywhere.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest tests/"
+  },
+  "keywords": [
+    "timezone",
+    "tz",
+    "iana",
+    "search",
+    "fuzzy",
+    "autocomplete",
+    "time",
+    "world",
+    "zone",
+    "city",
+    "country",
+    "typescript",
+    "types"
+  ],
+  "author": "Prashanth Krishnamurthy - techformist.com",
+  "license": "MIT",
+  "dependencies": {
+    "fuse.js": "^6.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
