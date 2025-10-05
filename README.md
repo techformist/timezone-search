@@ -17,6 +17,8 @@ An intelligent, zero-config NPM package for fuzzy searching IANA timezones by ci
 - 🎯 **Rich Results**: Returns comprehensive timezone information including UTC offsets, country data, and abbreviations
 - 📘 **TypeScript Support**: Full type definitions included for enhanced developer experience
 - 🏗️ **CI/CD Ready**: Automated testing and publishing via GitHub Actions
+- 🔄 **Dual Package**: Supports both **CommonJS** (`require()`) and **ES Modules** (`import`) - works everywhere!
+- 📱 **Modern & Legacy**: Compatible with Node.js, browsers, bundlers (Webpack, Vite, etc.)
 
 ## Installation
 
@@ -26,44 +28,72 @@ npm install timezone-search
 
 ## Usage
 
-### Basic Usage (JavaScript)
+**timezone-search** supports both **CommonJS** and **ES Modules (ESM)** for maximum compatibility!
+
+### CommonJS (Node.js)
 
 ```javascript
-const timezoneSearch = require("timezone-search");
+// CommonJS import
+const { search } = require("timezone-search");
+// or: const timezoneSearch = require("timezone-search");
 
 // 🔥 NEW: Search by timezone abbreviations (prioritized results!)
-const aestResults = timezoneSearch.search("AEST");
+const aestResults = search("AEST");
 console.log(aestResults); // Returns all Australian Eastern timezones first
 
-const estResults = timezoneSearch.search("EST");
+const estResults = search("EST");
 console.log(estResults); // Returns US/Canadian Eastern timezones first
 
 // Simple search by city
-const results = timezoneSearch.search("London");
+const results = search("London");
 console.log(results);
 
 // Search with a limit
-const topResult = timezoneSearch.search("New York", { limit: 1 });
+const topResult = search("New York", { limit: 1 });
+console.log(topResult);
+```
+
+### ES Modules (Modern JavaScript)
+
+```javascript
+// ES Module import (modern)
+import { search } from "timezone-search";
+// or: import timezoneSearch from "timezone-search";
+
+// 🔥 NEW: Search by timezone abbreviations (prioritized results!)
+const aestResults = search("AEST");
+console.log(aestResults); // Returns all Australian Eastern timezones first
+
+const estResults = search("EST");
+console.log(estResults); // Returns US/Canadian Eastern timezones first
+
+// Simple search by city
+const results = search("London");
+console.log(results);
+
+// Search with a limit
+const topResult = search("New York", { limit: 1 });
 console.log(topResult);
 
 // Fuzzy search handles typos
-const fuzzyResults = timezoneSearch.search("Tokio"); // Will find Tokyo
+const fuzzyResults = search("Tokio"); // Will find Tokyo
 console.log(fuzzyResults);
 
 // Search by country
-const japanTimezones = timezoneSearch.search("Japan");
+const japanTimezones = search("Japan");
 console.log(japanTimezones);
 ```
 
-### TypeScript Usage
+### TypeScript Usage (Full Type Safety)
 
 ```typescript
+// ES Module import with TypeScript
 import { search, TimezoneResult, SearchOptions } from "timezone-search";
 // or: import timezoneSearch from 'timezone-search';
 
 // 🔥 NEW: Abbreviation search with full type safety
 const aestZones: TimezoneResult[] = search("AEST");
-console.log(aestZones[0].abbreviations); // ["AEST", "AEDT"]
+console.log(aestZones[0].abbreviations); // "AEST,AEDT" (comma-separated string)
 console.log(aestZones[0].city); // "Sydney" or "Melbourne"
 
 // Simple search with type safety
@@ -80,23 +110,28 @@ limitedResults.forEach((timezone: TimezoneResult) => {
   console.log(
     `${timezone.city} (${timezone.countryName}): ${timezone.utcOffsetStr}`
   );
-  console.log(`Abbreviations: ${timezone.abbreviations.join(", ")}`);
+  console.log(`Abbreviations: ${timezone.abbreviations}`);
 });
 ```
 
 ### Advanced Usage
 
 ```javascript
-const timezoneSearch = require("timezone-search");
+// Works with both CommonJS and ESM!
+const { search } = require("timezone-search"); // CommonJS
+// import { search } from "timezone-search";   // ESM
 
 // Search with custom limit
-const limitedResults = timezoneSearch.search("America", { limit: 5 });
+const limitedResults = search("America", { limit: 5 });
 
 // Search by country code
-const usTimezones = timezoneSearch.search("US", { limit: 10 });
+const usTimezones = search("US", { limit: 10 });
 
 // Search by IANA timezone name
-const specificZone = timezoneSearch.search("Europe/Budapest");
+const specificZone = search("Europe/Budapest");
+
+// Chain searches for more complex queries
+const easternUS = search("EST").filter(tz => tz.countryCode === "US");
 ```
 
 ## API Reference
