@@ -1,15 +1,32 @@
 const Fuse = require('fuse.js');
-const timezoneData = require('./data/timezone-data.json');
+const fs = require('fs');
+const path = require('path');
 
 // Global variables to store the Fuse instance
 let fuse = null;
+let cachedData = null;
 
 /**
- * Returns the pre-loaded timezone data
- * @returns {Array} Array of enriched timezone objects
+ * Returns pre-generated timezone data from JSON file
+ * @returns {Array} Array of timezone objects
  */
 function getTimezoneData() {
-  return timezoneData;
+  if (cachedData) {
+    return cachedData;
+  }
+
+  try {
+    // Load pre-generated timezone data
+    const dataPath = path.join(__dirname, 'data', 'timezone-data.json');
+    const jsonData = fs.readFileSync(dataPath, 'utf8');
+    cachedData = JSON.parse(jsonData);
+    
+    return cachedData;
+  } catch (error) {
+    console.error('Failed to load timezone data:', error.message);
+    // Fallback: return empty array
+    return [];
+  }
 }
 
 /**

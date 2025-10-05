@@ -2,8 +2,8 @@
   {
     "iana": "Africa/Abidjan",
     "city": "Abidjan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -11,8 +11,8 @@
   {
     "iana": "Africa/Accra",
     "city": "Accra",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GH",
+    "countryName": "Ghana",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -20,8 +20,8 @@
   {
     "iana": "Africa/Addis_Ababa",
     "city": "Addis Ababa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -33,13 +33,13 @@
     "countryName": "Algeria",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
-    "abbreviations": "PMT,WET,WEST,CET"
+    "abbreviations": "PMT,WET,WEST,CET,CEST"
   },
   {
     "iana": "Africa/Asmara",
     "city": "Asmara",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ER",
+    "countryName": "Eritrea",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -47,8 +47,8 @@
   {
     "iana": "Africa/Asmera",
     "city": "Asmera",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ER",
+    "countryName": "Eritrea",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -56,8 +56,8 @@
   {
     "iana": "Africa/Bamako",
     "city": "Bamako",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ML",
+    "countryName": "Mali",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -65,8 +65,8 @@
   {
     "iana": "Africa/Bangui",
     "city": "Bangui",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CF",
+    "countryName": "Central African Republic",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -74,8 +74,8 @@
   {
     "iana": "Africa/Banjul",
     "city": "Banjul",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GM",
+    "countryName": "Gambia",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -83,8 +83,8 @@
   {
     "iana": "Africa/Bissau",
     "city": "Bissau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GW",
+    "countryName": "Guinea-Bissau",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -92,8 +92,8 @@
   {
     "iana": "Africa/Blantyre",
     "city": "Blantyre",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MW",
+    "countryName": "Malawi",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -101,8 +101,8 @@
   {
     "iana": "Africa/Brazzaville",
     "city": "Brazzaville",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CG",
+    "countryName": "Republic of the Congo",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -110,8 +110,8 @@
   {
     "iana": "Africa/Bujumbura",
     "city": "Bujumbura",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BI",
+    "countryName": "Burundi",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -137,8 +137,8 @@
   {
     "iana": "Africa/Ceuta",
     "city": "Ceuta",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ES",
+    "countryName": "Spain",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "WET,WEST,CET,CEST"
@@ -146,8 +146,8 @@
   {
     "iana": "Africa/Conakry",
     "city": "Conakry",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GN",
+    "countryName": "Guinea",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -155,8 +155,8 @@
   {
     "iana": "Africa/Dakar",
     "city": "Dakar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SN",
+    "countryName": "Senegal",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -164,8 +164,8 @@
   {
     "iana": "Africa/Dar_es_Salaam",
     "city": "Dar es Salaam",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -173,8 +173,8 @@
   {
     "iana": "Africa/Djibouti",
     "city": "Djibouti",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "DJ",
+    "countryName": "Djibouti",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -182,8 +182,8 @@
   {
     "iana": "Africa/Douala",
     "city": "Douala",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CM",
+    "countryName": "Cameroon",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -191,8 +191,8 @@
   {
     "iana": "Africa/El_Aaiun",
     "city": "El Aaiun",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "EH",
+    "countryName": "Western Sahara",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": ""
@@ -200,8 +200,8 @@
   {
     "iana": "Africa/Freetown",
     "city": "Freetown",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SL",
+    "countryName": "Sierra Leone",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -209,8 +209,8 @@
   {
     "iana": "Africa/Gaborone",
     "city": "Gaborone",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BW",
+    "countryName": "Botswana",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -218,8 +218,8 @@
   {
     "iana": "Africa/Harare",
     "city": "Harare",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ZW",
+    "countryName": "Zimbabwe",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -236,8 +236,8 @@
   {
     "iana": "Africa/Juba",
     "city": "Juba",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SS",
+    "countryName": "South Sudan",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT,CAST,EAT"
@@ -245,8 +245,8 @@
   {
     "iana": "Africa/Kampala",
     "city": "Kampala",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UG",
+    "countryName": "Uganda",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -254,8 +254,8 @@
   {
     "iana": "Africa/Khartoum",
     "city": "Khartoum",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SD",
+    "countryName": "Sudan",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT,CAST,EAT"
@@ -263,8 +263,8 @@
   {
     "iana": "Africa/Kigali",
     "city": "Kigali",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -272,8 +272,8 @@
   {
     "iana": "Africa/Kinshasa",
     "city": "Kinshasa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -290,8 +290,8 @@
   {
     "iana": "Africa/Libreville",
     "city": "Libreville",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GA",
+    "countryName": "Gabon",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -299,8 +299,8 @@
   {
     "iana": "Africa/Lome",
     "city": "Lome",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TG",
+    "countryName": "Togo",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -308,8 +308,8 @@
   {
     "iana": "Africa/Luanda",
     "city": "Luanda",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AO",
+    "countryName": "Angola",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -317,8 +317,8 @@
   {
     "iana": "Africa/Lubumbashi",
     "city": "Lubumbashi",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -326,8 +326,8 @@
   {
     "iana": "Africa/Lusaka",
     "city": "Lusaka",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -335,8 +335,8 @@
   {
     "iana": "Africa/Malabo",
     "city": "Malabo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GQ",
+    "countryName": "Equatorial Guinea",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -344,8 +344,8 @@
   {
     "iana": "Africa/Maputo",
     "city": "Maputo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CAT"
@@ -353,8 +353,8 @@
   {
     "iana": "Africa/Maseru",
     "city": "Maseru",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LS",
+    "countryName": "Lesotho",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "SAST"
@@ -362,8 +362,8 @@
   {
     "iana": "Africa/Mbabane",
     "city": "Mbabane",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SZ",
+    "countryName": "Eswatini",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "SAST"
@@ -371,8 +371,8 @@
   {
     "iana": "Africa/Mogadishu",
     "city": "Mogadishu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SO",
+    "countryName": "Somalia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -380,8 +380,8 @@
   {
     "iana": "Africa/Monrovia",
     "city": "Monrovia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LR",
+    "countryName": "Liberia",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "MMT,GMT"
@@ -389,8 +389,8 @@
   {
     "iana": "Africa/Nairobi",
     "city": "Nairobi",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KE",
+    "countryName": "Kenya",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -398,8 +398,8 @@
   {
     "iana": "Africa/Ndjamena",
     "city": "Ndjamena",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TD",
+    "countryName": "Chad",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "WAT,WAST"
@@ -407,8 +407,8 @@
   {
     "iana": "Africa/Niamey",
     "city": "Niamey",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NE",
+    "countryName": "Niger",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -416,8 +416,8 @@
   {
     "iana": "Africa/Nouakchott",
     "city": "Nouakchott",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MR",
+    "countryName": "Mauritania",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -425,8 +425,8 @@
   {
     "iana": "Africa/Ouagadougou",
     "city": "Ouagadougou",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BF",
+    "countryName": "Burkina Faso",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -434,8 +434,8 @@
   {
     "iana": "Africa/Porto-Novo",
     "city": "Porto-Novo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BJ",
+    "countryName": "Benin",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,WAT"
@@ -443,8 +443,8 @@
   {
     "iana": "Africa/Sao_Tome",
     "city": "Sao Tome",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ST",
+    "countryName": "Sao Tome and Principe",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT,WAT"
@@ -452,8 +452,8 @@
   {
     "iana": "Africa/Timbuktu",
     "city": "Timbuktu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ML",
+    "countryName": "Mali",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -461,8 +461,8 @@
   {
     "iana": "Africa/Tripoli",
     "city": "Tripoli",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LY",
+    "countryName": "Libya",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST,EET"
@@ -479,8 +479,8 @@
   {
     "iana": "Africa/Windhoek",
     "city": "Windhoek",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NA",
+    "countryName": "Namibia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "SAST,CAT,WAT"
@@ -492,7 +492,7 @@
     "countryName": "United States of America",
     "utcOffset": -540,
     "utcOffsetStr": "-09:00",
-    "abbreviations": "NST,NWT,NPT,BST"
+    "abbreviations": "NST,NWT,NPT,BST,BDT,AHST,HST,HDT"
   },
   {
     "iana": "America/Anchorage",
@@ -501,13 +501,13 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "AST,AWT,APT,AHST"
+    "abbreviations": "AST,AWT,APT,AHST,AHDT,YST,AKST,AKDT"
   },
   {
     "iana": "America/Anguilla",
     "city": "Anguilla",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AI",
+    "countryName": "Anguilla",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -515,8 +515,8 @@
   {
     "iana": "America/Antigua",
     "city": "Antigua",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AG",
+    "countryName": "Antigua and Barbuda",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -524,8 +524,8 @@
   {
     "iana": "America/Araguaina",
     "city": "Araguaina",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -650,8 +650,8 @@
   {
     "iana": "America/Aruba",
     "city": "Aruba",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AW",
+    "countryName": "Aruba",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -659,8 +659,8 @@
   {
     "iana": "America/Asuncion",
     "city": "Asuncion",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "PY",
+    "countryName": "Paraguay",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "AMT"
@@ -668,8 +668,8 @@
   {
     "iana": "America/Atikokan",
     "city": "Atikokan",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CMT,EST"
@@ -681,13 +681,13 @@
     "countryName": "United States of America",
     "utcOffset": -540,
     "utcOffsetStr": "-09:00",
-    "abbreviations": "NST,NWT,NPT,BST"
+    "abbreviations": "NST,NWT,NPT,BST,BDT,AHST,HST,HDT"
   },
   {
     "iana": "America/Bahia",
     "city": "Bahia",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -695,8 +695,8 @@
   {
     "iana": "America/Bahia_Banderas",
     "city": "Bahia Banderas",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,CST,MDT,CDT"
@@ -704,8 +704,8 @@
   {
     "iana": "America/Barbados",
     "city": "Barbados",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BB",
+    "countryName": "Barbados",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,ADT"
@@ -722,8 +722,8 @@
   {
     "iana": "America/Belize",
     "city": "Belize",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BZ",
+    "countryName": "Belize",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "CST,CWT,CPT,CDT"
@@ -731,8 +731,8 @@
   {
     "iana": "America/Blanc-Sablon",
     "city": "Blanc-Sablon",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -740,8 +740,8 @@
   {
     "iana": "America/Boa_Vista",
     "city": "Boa Vista",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -749,8 +749,8 @@
   {
     "iana": "America/Bogota",
     "city": "Bogota",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CO",
+    "countryName": "Colombia",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "BMT"
@@ -762,13 +762,13 @@
     "countryName": "United States of America",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "PST,PDT,MST,MWT"
+    "abbreviations": "PST,PDT,MST,MWT,MPT,MDT"
   },
   {
     "iana": "America/Buenos_Aires",
     "city": "Buenos Aires",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -776,17 +776,17 @@
   {
     "iana": "America/Cambridge_Bay",
     "city": "Cambridge Bay",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,MWT,MPT,MDT"
+    "abbreviations": "MST,MWT,MPT,MDT,CST,CDT,EST"
   },
   {
     "iana": "America/Campo_Grande",
     "city": "Campo Grande",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -803,8 +803,8 @@
   {
     "iana": "America/Caracas",
     "city": "Caracas",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "CMT"
@@ -812,8 +812,8 @@
   {
     "iana": "America/Catamarca",
     "city": "Catamarca",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -821,8 +821,8 @@
   {
     "iana": "America/Cayenne",
     "city": "Cayenne",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GF",
+    "countryName": "French Guiana",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -830,8 +830,8 @@
   {
     "iana": "America/Cayman",
     "city": "Cayman",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "KY",
+    "countryName": "Cayman Islands",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CMT,EST"
@@ -843,7 +843,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,EST,CWT"
+    "abbreviations": "CST,CDT,EST,CWT,CPT"
   },
   {
     "iana": "America/Chihuahua",
@@ -857,8 +857,8 @@
   {
     "iana": "America/Ciudad_Juarez",
     "city": "Ciudad Juarez",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,CST,MDT,CDT"
@@ -866,8 +866,8 @@
   {
     "iana": "America/Coral_Harbour",
     "city": "Coral Harbour",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CMT,EST"
@@ -875,8 +875,8 @@
   {
     "iana": "America/Cordoba",
     "city": "Cordoba",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -884,8 +884,8 @@
   {
     "iana": "America/Costa_Rica",
     "city": "Costa Rica",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CR",
+    "countryName": "Costa Rica",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "SJMT,CST,CDT"
@@ -893,8 +893,8 @@
   {
     "iana": "America/Coyhaique",
     "city": "Coyhaique",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "SMT"
@@ -902,8 +902,8 @@
   {
     "iana": "America/Creston",
     "city": "Creston",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "MST,MDT,MWT"
@@ -911,8 +911,8 @@
   {
     "iana": "America/Cuiaba",
     "city": "Cuiaba",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -920,8 +920,8 @@
   {
     "iana": "America/Curacao",
     "city": "Curacao",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CW",
+    "countryName": "Curaçao",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -929,8 +929,8 @@
   {
     "iana": "America/Danmarkshavn",
     "city": "Danmarkshavn",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GL",
+    "countryName": "Greenland",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -938,20 +938,20 @@
   {
     "iana": "America/Dawson",
     "city": "Dawson",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "YST,YDT,YWT,YPT"
+    "abbreviations": "YST,YDT,YWT,YPT,YDDT,PST,PDT,MST"
   },
   {
     "iana": "America/Dawson_Creek",
     "city": "Dawson Creek",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "PST,PDT,PWT,PPT"
+    "abbreviations": "PST,PDT,PWT,PPT,MST"
   },
   {
     "iana": "America/Denver",
@@ -969,13 +969,13 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,EST,EWT,EPT"
+    "abbreviations": "CST,EST,EWT,EPT,EDT"
   },
   {
     "iana": "America/Dominica",
     "city": "Dominica",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "DM",
+    "countryName": "Dominica",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -992,8 +992,8 @@
   {
     "iana": "America/Eirunepe",
     "city": "Eirunepe",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": ""
@@ -1001,8 +1001,8 @@
   {
     "iana": "America/El_Salvador",
     "city": "El Salvador",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "SV",
+    "countryName": "El Salvador",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "CST,CDT"
@@ -1010,20 +1010,20 @@
   {
     "iana": "America/Ensenada",
     "city": "Ensenada",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "MST,PST,PDT,PWT"
+    "abbreviations": "MST,PST,PDT,PWT,PPT"
   },
   {
     "iana": "America/Fort_Nelson",
     "city": "Fort Nelson",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "PST,PDT,PWT,PPT"
+    "abbreviations": "PST,PDT,PWT,PPT,MST"
   },
   {
     "iana": "America/Fort_Wayne",
@@ -1032,7 +1032,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Fortaleza",
@@ -1046,8 +1046,8 @@
   {
     "iana": "America/Glace_Bay",
     "city": "Glace Bay",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "AST,ADT,AWT,APT"
@@ -1055,8 +1055,8 @@
   {
     "iana": "America/Godthab",
     "city": "Godthab",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GL",
+    "countryName": "Greenland",
     "utcOffset": -60,
     "utcOffsetStr": "-01:00",
     "abbreviations": ""
@@ -1064,17 +1064,17 @@
   {
     "iana": "America/Goose_Bay",
     "city": "Goose Bay",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
-    "abbreviations": "NST,NDT,NWT,NPT"
+    "abbreviations": "NST,NDT,NWT,NPT,AST,ADT,ADDT"
   },
   {
     "iana": "America/Grand_Turk",
     "city": "Grand Turk",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "TC",
+    "countryName": "Turks and Caicos Islands",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "KMT,EST,EDT,AST"
@@ -1082,8 +1082,8 @@
   {
     "iana": "America/Grenada",
     "city": "Grenada",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GD",
+    "countryName": "Grenada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1091,8 +1091,8 @@
   {
     "iana": "America/Guadeloupe",
     "city": "Guadeloupe",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GP",
+    "countryName": "Guadeloupe",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1100,8 +1100,8 @@
   {
     "iana": "America/Guatemala",
     "city": "Guatemala",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GT",
+    "countryName": "Guatemala",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "CST,CDT"
@@ -1109,8 +1109,8 @@
   {
     "iana": "America/Guayaquil",
     "city": "Guayaquil",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "EC",
+    "countryName": "Ecuador",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "QMT"
@@ -1118,8 +1118,8 @@
   {
     "iana": "America/Guyana",
     "city": "Guyana",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GY",
+    "countryName": "Guyana",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -1136,8 +1136,8 @@
   {
     "iana": "America/Havana",
     "city": "Havana",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CU",
+    "countryName": "Cuba",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "HMT,CST,CDT"
@@ -1158,7 +1158,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Knox",
@@ -1167,7 +1167,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST"
   },
   {
     "iana": "America/Indiana/Marengo",
@@ -1176,7 +1176,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Petersburg",
@@ -1185,7 +1185,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Tell_City",
@@ -1194,7 +1194,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Vevay",
@@ -1203,7 +1203,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Vincennes",
@@ -1212,7 +1212,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indiana/Winamac",
@@ -1221,7 +1221,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Indianapolis",
@@ -1230,13 +1230,13 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Inuvik",
     "city": "Inuvik",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "PST,PDT,MDT,MST"
@@ -1244,17 +1244,17 @@
   {
     "iana": "America/Iqaluit",
     "city": "Iqaluit",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "EWT,EPT,EST,EDT"
+    "abbreviations": "EWT,EPT,EST,EDT,CST,CDT"
   },
   {
     "iana": "America/Jamaica",
     "city": "Jamaica",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "JM",
+    "countryName": "Jamaica",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "KMT,EST,EDT"
@@ -1262,8 +1262,8 @@
   {
     "iana": "America/Jujuy",
     "city": "Jujuy",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -1275,7 +1275,7 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "PST,PWT,PPT,PDT"
+    "abbreviations": "PST,PWT,PPT,PDT,YDT,YST,AKST,AKDT"
   },
   {
     "iana": "America/Kentucky/Louisville",
@@ -1284,7 +1284,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Kentucky/Monticello",
@@ -1293,7 +1293,7 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Knox_IN",
@@ -1302,13 +1302,13 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST"
   },
   {
     "iana": "America/Kralendijk",
     "city": "Kralendijk",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BQ",
+    "countryName": "Caribbean Netherlands",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1316,8 +1316,8 @@
   {
     "iana": "America/La_Paz",
     "city": "La Paz",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BO",
+    "countryName": "Bolivia",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "CMT,BST"
@@ -1325,8 +1325,8 @@
   {
     "iana": "America/Lima",
     "city": "Lima",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "PE",
+    "countryName": "Peru",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": ""
@@ -1347,13 +1347,13 @@
     "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "America/Lower_Princes",
     "city": "Lower Princes",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "SX",
+    "countryName": "Sint Maarten",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1361,8 +1361,8 @@
   {
     "iana": "America/Maceio",
     "city": "Maceio",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -1370,8 +1370,8 @@
   {
     "iana": "America/Managua",
     "city": "Managua",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "NI",
+    "countryName": "Nicaragua",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MMT,CST,EST,CDT"
@@ -1388,8 +1388,8 @@
   {
     "iana": "America/Marigot",
     "city": "Marigot",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MF",
+    "countryName": "Saint Martin",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1397,8 +1397,8 @@
   {
     "iana": "America/Martinique",
     "city": "Martinique",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MQ",
+    "countryName": "Martinique",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "FFMT,AST,ADT"
@@ -1406,8 +1406,8 @@
   {
     "iana": "America/Matamoros",
     "city": "Matamoros",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CST,CDT"
@@ -1424,8 +1424,8 @@
   {
     "iana": "America/Mendoza",
     "city": "Mendoza",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -1437,7 +1437,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST"
   },
   {
     "iana": "America/Merida",
@@ -1455,7 +1455,7 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "PST,PWT,PPT,PDT"
+    "abbreviations": "PST,PWT,PPT,PDT,AKST,AKDT"
   },
   {
     "iana": "America/Mexico_City",
@@ -1464,13 +1464,13 @@
     "countryName": "Mexico",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,CST,MDT,CDT"
+    "abbreviations": "MST,CST,MDT,CDT,CWT"
   },
   {
     "iana": "America/Miquelon",
     "city": "Miquelon",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "PM",
+    "countryName": "Saint Pierre and Miquelon",
     "utcOffset": -120,
     "utcOffsetStr": "-02:00",
     "abbreviations": "AST"
@@ -1478,11 +1478,11 @@
   {
     "iana": "America/Moncton",
     "city": "Moncton",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
-    "abbreviations": "EST,AST,ADT,AWT"
+    "abbreviations": "EST,AST,ADT,AWT,APT"
   },
   {
     "iana": "America/Monterrey",
@@ -1496,8 +1496,8 @@
   {
     "iana": "America/Montevideo",
     "city": "Montevideo",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "UY",
+    "countryName": "Uruguay",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "MMT"
@@ -1514,8 +1514,8 @@
   {
     "iana": "America/Montserrat",
     "city": "Montserrat",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MS",
+    "countryName": "Montserrat",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1523,8 +1523,8 @@
   {
     "iana": "America/Nassau",
     "city": "Nassau",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BS",
+    "countryName": "Bahamas",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -1541,8 +1541,8 @@
   {
     "iana": "America/Nipigon",
     "city": "Nipigon",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -1554,13 +1554,13 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "NST,NWT,NPT,BST"
+    "abbreviations": "NST,NWT,NPT,BST,BDT,YST,AKST,AKDT"
   },
   {
     "iana": "America/Noronha",
     "city": "Noronha",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -120,
     "utcOffsetStr": "-02:00",
     "abbreviations": ""
@@ -1572,7 +1572,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST,CDT"
   },
   {
     "iana": "America/North_Dakota/Center",
@@ -1581,7 +1581,7 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST,CDT"
   },
   {
     "iana": "America/North_Dakota/New_Salem",
@@ -1590,13 +1590,13 @@
     "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST,CDT"
   },
   {
     "iana": "America/Nuuk",
     "city": "Nuuk",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GL",
+    "countryName": "Greenland",
     "utcOffset": -60,
     "utcOffsetStr": "-01:00",
     "abbreviations": ""
@@ -1604,8 +1604,8 @@
   {
     "iana": "America/Ojinaga",
     "city": "Ojinaga",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "MST,CST,MDT,CDT"
@@ -1613,8 +1613,8 @@
   {
     "iana": "America/Panama",
     "city": "Panama",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CMT,EST"
@@ -1622,17 +1622,17 @@
   {
     "iana": "America/Pangnirtung",
     "city": "Pangnirtung",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "EWT,EPT,EST,EDT"
+    "abbreviations": "EWT,EPT,EST,EDT,CST,CDT"
   },
   {
     "iana": "America/Paramaribo",
     "city": "Paramaribo",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "SR",
+    "countryName": "Suriname",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "PMT"
@@ -1649,8 +1649,8 @@
   {
     "iana": "America/Port-au-Prince",
     "city": "Port-au-Prince",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "HT",
+    "countryName": "Haiti",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "PPMT,EST,EDT"
@@ -1658,8 +1658,8 @@
   {
     "iana": "America/Port_of_Spain",
     "city": "Port of Spain",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "TT",
+    "countryName": "Trinidad and Tobago",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1667,8 +1667,8 @@
   {
     "iana": "America/Porto_Acre",
     "city": "Porto Acre",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": ""
@@ -1676,8 +1676,8 @@
   {
     "iana": "America/Porto_Velho",
     "city": "Porto Velho",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -1685,8 +1685,8 @@
   {
     "iana": "America/Puerto_Rico",
     "city": "Puerto Rico",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1694,8 +1694,8 @@
   {
     "iana": "America/Punta_Arenas",
     "city": "Punta Arenas",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "SMT"
@@ -1703,8 +1703,8 @@
   {
     "iana": "America/Rainy_River",
     "city": "Rainy River",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CST,CDT,CWT,CPT"
@@ -1712,8 +1712,8 @@
   {
     "iana": "America/Rankin_Inlet",
     "city": "Rankin Inlet",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CST,CDT,EST"
@@ -1730,17 +1730,17 @@
   {
     "iana": "America/Regina",
     "city": "Regina",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST"
   },
   {
     "iana": "America/Resolute",
     "city": "Resolute",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CST,CDT,EST"
@@ -1757,8 +1757,8 @@
   {
     "iana": "America/Rosario",
     "city": "Rosario",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "AR",
+    "countryName": "Argentina",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "CMT"
@@ -1766,17 +1766,17 @@
   {
     "iana": "America/Santa_Isabel",
     "city": "Santa Isabel",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "MST,PST,PDT,PWT"
+    "abbreviations": "MST,PST,PDT,PWT,PPT"
   },
   {
     "iana": "America/Santarem",
     "city": "Santarem",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -1784,8 +1784,8 @@
   {
     "iana": "America/Santiago",
     "city": "Santiago",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "SMT"
@@ -1793,8 +1793,8 @@
   {
     "iana": "America/Santo_Domingo",
     "city": "Santo Domingo",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "SDMT,EST,EDT,AST"
@@ -1811,8 +1811,8 @@
   {
     "iana": "America/Scoresbysund",
     "city": "Scoresbysund",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GL",
+    "countryName": "Greenland",
     "utcOffset": -60,
     "utcOffsetStr": "-01:00",
     "abbreviations": ""
@@ -1833,13 +1833,13 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "PST,PWT,PPT,PDT"
+    "abbreviations": "PST,PWT,PPT,PDT,YST,AKST,AKDT"
   },
   {
     "iana": "America/St_Barthelemy",
     "city": "St Barthelemy",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "BL",
+    "countryName": "Saint Barthélemy",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1851,13 +1851,13 @@
     "countryName": "Canada",
     "utcOffset": -150,
     "utcOffsetStr": "-02:30",
-    "abbreviations": "NST,NDT,NWT,NPT"
+    "abbreviations": "NST,NDT,NWT,NPT,NDDT"
   },
   {
     "iana": "America/St_Kitts",
     "city": "St Kitts",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "KN",
+    "countryName": "Saint Kitts and Nevis",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1865,8 +1865,8 @@
   {
     "iana": "America/St_Lucia",
     "city": "St Lucia",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "LC",
+    "countryName": "Saint Lucia",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1874,8 +1874,8 @@
   {
     "iana": "America/St_Thomas",
     "city": "St Thomas",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "VI",
+    "countryName": "Virgin Islands (US)",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1883,8 +1883,8 @@
   {
     "iana": "America/St_Vincent",
     "city": "St Vincent",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "VC",
+    "countryName": "Saint Vincent and the Grenadines",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1892,17 +1892,17 @@
   {
     "iana": "America/Swift_Current",
     "city": "Swift Current",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST"
   },
   {
     "iana": "America/Tegucigalpa",
     "city": "Tegucigalpa",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "HN",
+    "countryName": "Honduras",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "CST,CDT"
@@ -1910,8 +1910,8 @@
   {
     "iana": "America/Thule",
     "city": "Thule",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "GL",
+    "countryName": "Greenland",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "AST,ADT"
@@ -1919,8 +1919,8 @@
   {
     "iana": "America/Thunder_Bay",
     "city": "Thunder Bay",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -1932,7 +1932,7 @@
     "countryName": "Mexico",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "MST,PST,PDT,PWT"
+    "abbreviations": "MST,PST,PDT,PWT,PPT"
   },
   {
     "iana": "America/Toronto",
@@ -1946,8 +1946,8 @@
   {
     "iana": "America/Tortola",
     "city": "Tortola",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "VG",
+    "countryName": "Virgin Islands (UK)",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1964,8 +1964,8 @@
   {
     "iana": "America/Virgin",
     "city": "Virgin",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "VI",
+    "countryName": "Virgin Islands (US)",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "AST,AWT,APT"
@@ -1973,11 +1973,11 @@
   {
     "iana": "America/Whitehorse",
     "city": "Whitehorse",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "YST,YDT,YWT,YPT"
+    "abbreviations": "YST,YDT,YWT,YPT,YDDT,PST,PDT,MST"
   },
   {
     "iana": "America/Winnipeg",
@@ -1995,13 +1995,13 @@
     "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "YST,YWT,YPT,YDT"
+    "abbreviations": "YST,YWT,YPT,YDT,AKST,AKDT"
   },
   {
     "iana": "America/Yellowknife",
     "city": "Yellowknife",
-    "countryCode": "US",
-    "countryName": "United States of America",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,MDT,MWT,MPT"
@@ -2009,8 +2009,8 @@
   {
     "iana": "Antarctica/Casey",
     "city": "Casey",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2018,8 +2018,8 @@
   {
     "iana": "Antarctica/Davis",
     "city": "Davis",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2027,8 +2027,8 @@
   {
     "iana": "Antarctica/DumontDUrville",
     "city": "DumontDUrville",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "PMMT"
@@ -2036,8 +2036,8 @@
   {
     "iana": "Antarctica/Macquarie",
     "city": "Macquarie",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AU",
+    "countryName": "Australia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": "AEST,AEDT"
@@ -2045,8 +2045,8 @@
   {
     "iana": "Antarctica/Mawson",
     "city": "Mawson",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2054,8 +2054,8 @@
   {
     "iana": "Antarctica/McMurdo",
     "city": "McMurdo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": "NZMT,NZST,NZDT"
@@ -2063,8 +2063,8 @@
   {
     "iana": "Antarctica/Palmer",
     "city": "Palmer",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -2072,8 +2072,8 @@
   {
     "iana": "Antarctica/Rothera",
     "city": "Rothera",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -2081,8 +2081,8 @@
   {
     "iana": "Antarctica/South_Pole",
     "city": "South Pole",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": "NZMT,NZST,NZDT"
@@ -2090,8 +2090,8 @@
   {
     "iana": "Antarctica/Syowa",
     "city": "Syowa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": ""
@@ -2099,8 +2099,8 @@
   {
     "iana": "Antarctica/Troll",
     "city": "Troll",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": ""
@@ -2108,8 +2108,8 @@
   {
     "iana": "Antarctica/Vostok",
     "city": "Vostok",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AQ",
+    "countryName": "Antarctica",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2117,8 +2117,8 @@
   {
     "iana": "Arctic/Longyearbyen",
     "city": "Longyearbyen",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SJ",
+    "countryName": "Svalbard and Jan Mayen",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST,CEMT"
@@ -2126,8 +2126,8 @@
   {
     "iana": "Asia/Aden",
     "city": "Aden",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "YE",
+    "countryName": "Yemen",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": ""
@@ -2135,8 +2135,8 @@
   {
     "iana": "Asia/Almaty",
     "city": "Almaty",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2144,8 +2144,8 @@
   {
     "iana": "Asia/Amman",
     "city": "Amman",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "JO",
+    "countryName": "Jordan",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -2153,8 +2153,8 @@
   {
     "iana": "Asia/Anadyr",
     "city": "Anadyr",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -2162,8 +2162,8 @@
   {
     "iana": "Asia/Aqtau",
     "city": "Aqtau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2171,8 +2171,8 @@
   {
     "iana": "Asia/Aqtobe",
     "city": "Aqtobe",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2180,8 +2180,8 @@
   {
     "iana": "Asia/Ashgabat",
     "city": "Ashgabat",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TM",
+    "countryName": "Turkmenistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2189,8 +2189,8 @@
   {
     "iana": "Asia/Ashkhabad",
     "city": "Ashkhabad",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TM",
+    "countryName": "Turkmenistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2198,8 +2198,8 @@
   {
     "iana": "Asia/Atyrau",
     "city": "Atyrau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2207,8 +2207,8 @@
   {
     "iana": "Asia/Baghdad",
     "city": "Baghdad",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "BMT"
@@ -2216,8 +2216,8 @@
   {
     "iana": "Asia/Bahrain",
     "city": "Bahrain",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BH",
+    "countryName": "Bahrain",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": ""
@@ -2225,8 +2225,8 @@
   {
     "iana": "Asia/Baku",
     "city": "Baku",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AZ",
+    "countryName": "Azerbaijan",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -2243,8 +2243,8 @@
   {
     "iana": "Asia/Barnaul",
     "city": "Barnaul",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2252,8 +2252,8 @@
   {
     "iana": "Asia/Beirut",
     "city": "Beirut",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LB",
+    "countryName": "Lebanon",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -2261,8 +2261,8 @@
   {
     "iana": "Asia/Bishkek",
     "city": "Bishkek",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KG",
+    "countryName": "Kyrgyzstan",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2270,8 +2270,8 @@
   {
     "iana": "Asia/Brunei",
     "city": "Brunei",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BN",
+    "countryName": "Brunei",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2279,8 +2279,8 @@
   {
     "iana": "Asia/Calcutta",
     "city": "Calcutta",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IN",
+    "countryName": "India",
     "utcOffset": 330,
     "utcOffsetStr": "+05:30",
     "abbreviations": "HMT,MMT,IST"
@@ -2288,8 +2288,8 @@
   {
     "iana": "Asia/Chita",
     "city": "Chita",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": ""
@@ -2297,8 +2297,8 @@
   {
     "iana": "Asia/Choibalsan",
     "city": "Choibalsan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MN",
+    "countryName": "Mongolia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2306,8 +2306,8 @@
   {
     "iana": "Asia/Chongqing",
     "city": "Chongqing",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -2315,8 +2315,8 @@
   {
     "iana": "Asia/Chungking",
     "city": "Chungking",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -2324,8 +2324,8 @@
   {
     "iana": "Asia/Colombo",
     "city": "Colombo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LK",
+    "countryName": "Sri Lanka",
     "utcOffset": 330,
     "utcOffsetStr": "+05:30",
     "abbreviations": "MMT"
@@ -2333,8 +2333,8 @@
   {
     "iana": "Asia/Dacca",
     "city": "Dacca",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": "HMT"
@@ -2342,8 +2342,8 @@
   {
     "iana": "Asia/Damascus",
     "city": "Damascus",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SY",
+    "countryName": "Syria",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -2351,8 +2351,8 @@
   {
     "iana": "Asia/Dhaka",
     "city": "Dhaka",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": "HMT"
@@ -2360,8 +2360,8 @@
   {
     "iana": "Asia/Dili",
     "city": "Dili",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TL",
+    "countryName": "Timor-Leste",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": ""
@@ -2378,8 +2378,8 @@
   {
     "iana": "Asia/Dushanbe",
     "city": "Dushanbe",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TJ",
+    "countryName": "Tajikistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2387,8 +2387,8 @@
   {
     "iana": "Asia/Famagusta",
     "city": "Famagusta",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CY",
+    "countryName": "Cyprus",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -2396,8 +2396,8 @@
   {
     "iana": "Asia/Gaza",
     "city": "Gaza",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PS",
+    "countryName": "Palestine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST,IST,IDT"
@@ -2405,8 +2405,8 @@
   {
     "iana": "Asia/Harbin",
     "city": "Harbin",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -2414,8 +2414,8 @@
   {
     "iana": "Asia/Hebron",
     "city": "Hebron",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PS",
+    "countryName": "Palestine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST,IST,IDT"
@@ -2423,8 +2423,8 @@
   {
     "iana": "Asia/Ho_Chi_Minh",
     "city": "Ho Chi Minh",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "PLMT"
@@ -2441,8 +2441,8 @@
   {
     "iana": "Asia/Hovd",
     "city": "Hovd",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MN",
+    "countryName": "Mongolia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2450,8 +2450,8 @@
   {
     "iana": "Asia/Irkutsk",
     "city": "Irkutsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "IMT"
@@ -2459,8 +2459,8 @@
   {
     "iana": "Asia/Istanbul",
     "city": "Istanbul",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "IMT,EET,EEST"
@@ -2477,8 +2477,8 @@
   {
     "iana": "Asia/Jayapura",
     "city": "Jayapura",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": "WIT"
@@ -2486,8 +2486,8 @@
   {
     "iana": "Asia/Jerusalem",
     "city": "Jerusalem",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IL",
+    "countryName": "Israel",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "JMT,IST,IDT,IDDT"
@@ -2495,8 +2495,8 @@
   {
     "iana": "Asia/Kabul",
     "city": "Kabul",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AF",
+    "countryName": "Afghanistan",
     "utcOffset": 270,
     "utcOffsetStr": "+04:30",
     "abbreviations": ""
@@ -2504,8 +2504,8 @@
   {
     "iana": "Asia/Kamchatka",
     "city": "Kamchatka",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -2513,8 +2513,8 @@
   {
     "iana": "Asia/Karachi",
     "city": "Karachi",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": "PKT,PKST"
@@ -2522,8 +2522,8 @@
   {
     "iana": "Asia/Kashgar",
     "city": "Kashgar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2531,8 +2531,8 @@
   {
     "iana": "Asia/Kathmandu",
     "city": "Kathmandu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NP",
+    "countryName": "Nepal",
     "utcOffset": 345,
     "utcOffsetStr": "+05:45",
     "abbreviations": ""
@@ -2540,8 +2540,8 @@
   {
     "iana": "Asia/Katmandu",
     "city": "Katmandu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NP",
+    "countryName": "Nepal",
     "utcOffset": 345,
     "utcOffsetStr": "+05:45",
     "abbreviations": ""
@@ -2549,8 +2549,8 @@
   {
     "iana": "Asia/Khandyga",
     "city": "Khandyga",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": ""
@@ -2567,8 +2567,8 @@
   {
     "iana": "Asia/Krasnoyarsk",
     "city": "Krasnoyarsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2576,8 +2576,8 @@
   {
     "iana": "Asia/Kuala_Lumpur",
     "city": "Kuala Lumpur",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "SMT"
@@ -2585,8 +2585,8 @@
   {
     "iana": "Asia/Kuching",
     "city": "Kuching",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2594,8 +2594,8 @@
   {
     "iana": "Asia/Kuwait",
     "city": "Kuwait",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KW",
+    "countryName": "Kuwait",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": ""
@@ -2603,8 +2603,8 @@
   {
     "iana": "Asia/Macao",
     "city": "Macao",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MO",
+    "countryName": "Macao",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -2612,8 +2612,8 @@
   {
     "iana": "Asia/Macau",
     "city": "Macau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MO",
+    "countryName": "Macao",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -2621,8 +2621,8 @@
   {
     "iana": "Asia/Magadan",
     "city": "Magadan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -2630,8 +2630,8 @@
   {
     "iana": "Asia/Makassar",
     "city": "Makassar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "MMT,WITA"
@@ -2648,8 +2648,8 @@
   {
     "iana": "Asia/Muscat",
     "city": "Muscat",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "OM",
+    "countryName": "Oman",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -2657,8 +2657,8 @@
   {
     "iana": "Asia/Nicosia",
     "city": "Nicosia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CY",
+    "countryName": "Cyprus",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -2666,8 +2666,8 @@
   {
     "iana": "Asia/Novokuznetsk",
     "city": "Novokuznetsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2675,8 +2675,8 @@
   {
     "iana": "Asia/Novosibirsk",
     "city": "Novosibirsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2684,8 +2684,8 @@
   {
     "iana": "Asia/Omsk",
     "city": "Omsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2693,8 +2693,8 @@
   {
     "iana": "Asia/Oral",
     "city": "Oral",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2702,8 +2702,8 @@
   {
     "iana": "Asia/Phnom_Penh",
     "city": "Phnom Penh",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KH",
+    "countryName": "Cambodia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "BMT"
@@ -2711,8 +2711,8 @@
   {
     "iana": "Asia/Pontianak",
     "city": "Pontianak",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "PMT,WITA,WIB"
@@ -2720,8 +2720,8 @@
   {
     "iana": "Asia/Pyongyang",
     "city": "Pyongyang",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KP",
+    "countryName": "North Korea",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": "KST,JST"
@@ -2729,8 +2729,8 @@
   {
     "iana": "Asia/Qatar",
     "city": "Qatar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "QA",
+    "countryName": "Qatar",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": ""
@@ -2738,8 +2738,8 @@
   {
     "iana": "Asia/Qostanay",
     "city": "Qostanay",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2747,8 +2747,8 @@
   {
     "iana": "Asia/Qyzylorda",
     "city": "Qyzylorda",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2756,8 +2756,8 @@
   {
     "iana": "Asia/Rangoon",
     "city": "Rangoon",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
     "utcOffset": 390,
     "utcOffsetStr": "+06:30",
     "abbreviations": "RMT"
@@ -2774,8 +2774,8 @@
   {
     "iana": "Asia/Saigon",
     "city": "Saigon",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "PLMT"
@@ -2783,8 +2783,8 @@
   {
     "iana": "Asia/Sakhalin",
     "city": "Sakhalin",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -2792,8 +2792,8 @@
   {
     "iana": "Asia/Samarkand",
     "city": "Samarkand",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2828,8 +2828,8 @@
   {
     "iana": "Asia/Srednekolymsk",
     "city": "Srednekolymsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -2846,8 +2846,8 @@
   {
     "iana": "Asia/Tashkent",
     "city": "Tashkent",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": ""
@@ -2855,8 +2855,8 @@
   {
     "iana": "Asia/Tbilisi",
     "city": "Tbilisi",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GE",
+    "countryName": "Georgia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": "TBMT"
@@ -2873,8 +2873,8 @@
   {
     "iana": "Asia/Tel_Aviv",
     "city": "Tel Aviv",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IL",
+    "countryName": "Israel",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "JMT,IST,IDT,IDDT"
@@ -2882,8 +2882,8 @@
   {
     "iana": "Asia/Thimbu",
     "city": "Thimbu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BT",
+    "countryName": "Bhutan",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2891,8 +2891,8 @@
   {
     "iana": "Asia/Thimphu",
     "city": "Thimphu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BT",
+    "countryName": "Bhutan",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2909,8 +2909,8 @@
   {
     "iana": "Asia/Tomsk",
     "city": "Tomsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": ""
@@ -2918,8 +2918,8 @@
   {
     "iana": "Asia/Ujung_Pandang",
     "city": "Ujung Pandang",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "MMT,WITA"
@@ -2927,8 +2927,8 @@
   {
     "iana": "Asia/Ulaanbaatar",
     "city": "Ulaanbaatar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MN",
+    "countryName": "Mongolia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2936,8 +2936,8 @@
   {
     "iana": "Asia/Ulan_Bator",
     "city": "Ulan Bator",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MN",
+    "countryName": "Mongolia",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": ""
@@ -2945,8 +2945,8 @@
   {
     "iana": "Asia/Urumqi",
     "city": "Urumqi",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -2954,8 +2954,8 @@
   {
     "iana": "Asia/Ust-Nera",
     "city": "Ust-Nera",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": ""
@@ -2963,8 +2963,8 @@
   {
     "iana": "Asia/Vientiane",
     "city": "Vientiane",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LA",
+    "countryName": "Laos",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "BMT"
@@ -2972,8 +2972,8 @@
   {
     "iana": "Asia/Vladivostok",
     "city": "Vladivostok",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": ""
@@ -2981,8 +2981,8 @@
   {
     "iana": "Asia/Yakutsk",
     "city": "Yakutsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": ""
@@ -2990,8 +2990,8 @@
   {
     "iana": "Asia/Yangon",
     "city": "Yangon",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
     "utcOffset": 390,
     "utcOffsetStr": "+06:30",
     "abbreviations": "RMT"
@@ -2999,8 +2999,8 @@
   {
     "iana": "Asia/Yekaterinburg",
     "city": "Yekaterinburg",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": "PMT"
@@ -3008,8 +3008,8 @@
   {
     "iana": "Asia/Yerevan",
     "city": "Yerevan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AM",
+    "countryName": "Armenia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -3017,8 +3017,8 @@
   {
     "iana": "Atlantic/Azores",
     "city": "Azores",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PT",
+    "countryName": "Portugal",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "HMT,WET,WEST"
@@ -3026,8 +3026,8 @@
   {
     "iana": "Atlantic/Bermuda",
     "city": "Bermuda",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BM",
+    "countryName": "Bermuda",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "BMT,BST,AST,ADT"
@@ -3035,8 +3035,8 @@
   {
     "iana": "Atlantic/Canary",
     "city": "Canary",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ES",
+    "countryName": "Spain",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "WET,WEST"
@@ -3044,8 +3044,8 @@
   {
     "iana": "Atlantic/Cape_Verde",
     "city": "Cape Verde",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CV",
+    "countryName": "Cabo Verde",
     "utcOffset": -60,
     "utcOffsetStr": "-01:00",
     "abbreviations": ""
@@ -3053,8 +3053,8 @@
   {
     "iana": "Atlantic/Faeroe",
     "city": "Faeroe",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FO",
+    "countryName": "Faroe Islands",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "WET,WEST"
@@ -3062,8 +3062,8 @@
   {
     "iana": "Atlantic/Faroe",
     "city": "Faroe",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FO",
+    "countryName": "Faroe Islands",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "WET,WEST"
@@ -3071,8 +3071,8 @@
   {
     "iana": "Atlantic/Jan_Mayen",
     "city": "Jan Mayen",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SJ",
+    "countryName": "Svalbard and Jan Mayen",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST,CEMT"
@@ -3080,8 +3080,8 @@
   {
     "iana": "Atlantic/Madeira",
     "city": "Madeira",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PT",
+    "countryName": "Portugal",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "FMT,WET,WEST"
@@ -3089,8 +3089,8 @@
   {
     "iana": "Atlantic/Reykjavik",
     "city": "Reykjavik",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IS",
+    "countryName": "Iceland",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -3098,8 +3098,8 @@
   {
     "iana": "Atlantic/South_Georgia",
     "city": "South Georgia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GS",
+    "countryName": "South Georgia and the South Sandwich Islands",
     "utcOffset": -120,
     "utcOffsetStr": "-02:00",
     "abbreviations": ""
@@ -3107,8 +3107,8 @@
   {
     "iana": "Atlantic/St_Helena",
     "city": "St Helena",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SH",
+    "countryName": "Saint Helena, Ascension and Tristan da Cunha",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -3116,8 +3116,8 @@
   {
     "iana": "Atlantic/Stanley",
     "city": "Stanley",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FK",
+    "countryName": "Falkland Islands",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "SMT"
@@ -3332,8 +3332,8 @@
   {
     "iana": "Brazil/Acre",
     "city": "Acre",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": ""
@@ -3341,8 +3341,8 @@
   {
     "iana": "Brazil/DeNoronha",
     "city": "DeNoronha",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -120,
     "utcOffsetStr": "-02:00",
     "abbreviations": ""
@@ -3350,8 +3350,8 @@
   {
     "iana": "Brazil/East",
     "city": "East",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": ""
@@ -3359,8 +3359,8 @@
   {
     "iana": "Brazil/West",
     "city": "West",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BR",
+    "countryName": "Brazil",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": ""
@@ -3368,26 +3368,26 @@
   {
     "iana": "CET",
     "city": "CET",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BE",
+    "countryName": "Belgium",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "BMT,WET,CET,CEST"
+    "abbreviations": "BMT,WET,CET,CEST,WEST"
   },
   {
     "iana": "CST6CDT",
     "city": "CST6CDT",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,EST,CWT"
+    "abbreviations": "CST,CDT,EST,CWT,CPT"
   },
   {
     "iana": "Canada/Atlantic",
     "city": "Atlantic",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "AST,ADT,AWT,APT"
@@ -3395,8 +3395,8 @@
   {
     "iana": "Canada/Central",
     "city": "Central",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CST,CDT,CWT,CPT"
@@ -3404,8 +3404,8 @@
   {
     "iana": "Canada/Eastern",
     "city": "Eastern",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -3413,8 +3413,8 @@
   {
     "iana": "Canada/Mountain",
     "city": "Mountain",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,MDT,MWT,MPT"
@@ -3422,17 +3422,17 @@
   {
     "iana": "Canada/Newfoundland",
     "city": "Newfoundland",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -150,
     "utcOffsetStr": "-02:30",
-    "abbreviations": "NST,NDT,NWT,NPT"
+    "abbreviations": "NST,NDT,NWT,NPT,NDDT"
   },
   {
     "iana": "Canada/Pacific",
     "city": "Pacific",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "PST,PDT,PWT,PPT"
@@ -3440,26 +3440,26 @@
   {
     "iana": "Canada/Saskatchewan",
     "city": "Saskatchewan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,MDT,MWT,MPT"
+    "abbreviations": "MST,MDT,MWT,MPT,CST"
   },
   {
     "iana": "Canada/Yukon",
     "city": "Yukon",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CA",
+    "countryName": "Canada",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "YST,YDT,YWT,YPT"
+    "abbreviations": "YST,YDT,YWT,YPT,YDDT,PST,PDT,MST"
   },
   {
     "iana": "Chile/Continental",
     "city": "Continental",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -180,
     "utcOffsetStr": "-03:00",
     "abbreviations": "SMT"
@@ -3467,8 +3467,8 @@
   {
     "iana": "Chile/EasterIsland",
     "city": "EasterIsland",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "EMT"
@@ -3476,8 +3476,8 @@
   {
     "iana": "Cuba",
     "city": "Cuba",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CU",
+    "countryName": "Cuba",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "HMT,CST,CDT"
@@ -3485,17 +3485,17 @@
   {
     "iana": "EET",
     "city": "EET",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GR",
+    "countryName": "Greece",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "AMT,EET,EEST,CEST"
+    "abbreviations": "AMT,EET,EEST,CEST,CET"
   },
   {
     "iana": "EST",
     "city": "EST",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PA",
+    "countryName": "Panama",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "CMT,EST"
@@ -3503,8 +3503,8 @@
   {
     "iana": "EST5EDT",
     "city": "EST5EDT",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -3512,8 +3512,8 @@
   {
     "iana": "Egypt",
     "city": "Egypt",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "EG",
+    "countryName": "Egypt",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -3521,8 +3521,8 @@
   {
     "iana": "Eire",
     "city": "Eire",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IE",
+    "countryName": "Ireland",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "DMT,IST,GMT,BST"
@@ -3849,13 +3849,13 @@
     "countryName": "Netherlands",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "BMT,WET,CET,CEST"
+    "abbreviations": "BMT,WET,CET,CEST,WEST"
   },
   {
     "iana": "Europe/Andorra",
     "city": "Andorra",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AD",
+    "countryName": "Andorra",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "WET,CET,CEST"
@@ -3863,8 +3863,8 @@
   {
     "iana": "Europe/Astrakhan",
     "city": "Astrakhan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -3876,13 +3876,13 @@
     "countryName": "Greece",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "AMT,EET,EEST,CEST"
+    "abbreviations": "AMT,EET,EEST,CEST,CET"
   },
   {
     "iana": "Europe/Belfast",
     "city": "Belfast",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -3890,8 +3890,8 @@
   {
     "iana": "Europe/Belgrade",
     "city": "Belgrade",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RS",
+    "countryName": "Serbia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -3908,8 +3908,8 @@
   {
     "iana": "Europe/Bratislava",
     "city": "Bratislava",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SK",
+    "countryName": "Slovakia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "PMT,CET,CEST,GMT"
@@ -3921,7 +3921,7 @@
     "countryName": "Belgium",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "BMT,WET,CET,CEST"
+    "abbreviations": "BMT,WET,CET,CEST,WEST"
   },
   {
     "iana": "Europe/Bucharest",
@@ -3944,8 +3944,8 @@
   {
     "iana": "Europe/Busingen",
     "city": "Busingen",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "DE",
+    "countryName": "Germany",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "BMT,CET,CEST"
@@ -3953,11 +3953,11 @@
   {
     "iana": "Europe/Chisinau",
     "city": "Chisinau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MD",
+    "countryName": "Moldova",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "CMT,BMT,EET,EEST"
+    "abbreviations": "CMT,BMT,EET,EEST,CEST,CET,MSK,MSD"
   },
   {
     "iana": "Europe/Copenhagen",
@@ -3980,17 +3980,17 @@
   {
     "iana": "Europe/Gibraltar",
     "city": "Gibraltar",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GI",
+    "countryName": "Gibraltar",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "GMT,BST,BDST,CET"
+    "abbreviations": "GMT,BST,BDST,CET,CEST"
   },
   {
     "iana": "Europe/Guernsey",
     "city": "Guernsey",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GG",
+    "countryName": "Guernsey",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -4007,8 +4007,8 @@
   {
     "iana": "Europe/Isle_of_Man",
     "city": "Isle of Man",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IM",
+    "countryName": "Isle of Man",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -4017,7 +4017,7 @@
     "iana": "Europe/Istanbul",
     "city": "Istanbul",
     "countryCode": "TR",
-    "countryName": "Turkey",
+    "countryName": "Türkiye",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "IMT,EET,EEST"
@@ -4025,8 +4025,8 @@
   {
     "iana": "Europe/Jersey",
     "city": "Jersey",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "JE",
+    "countryName": "Jersey",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -4034,11 +4034,11 @@
   {
     "iana": "Europe/Kaliningrad",
     "city": "Kaliningrad",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "CET,CEST,EET,EEST"
+    "abbreviations": "CET,CEST,EET,EEST,MSK,MSD"
   },
   {
     "iana": "Europe/Kiev",
@@ -4047,13 +4047,13 @@
     "countryName": "Ukraine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "KMT,EET,MSK,CEST"
+    "abbreviations": "KMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Kirov",
     "city": "Kirov",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "MSD,MSK"
@@ -4061,26 +4061,26 @@
   {
     "iana": "Europe/Kyiv",
     "city": "Kyiv",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "KMT,EET,MSK,CEST"
+    "abbreviations": "KMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Lisbon",
     "city": "Lisbon",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PT",
+    "countryName": "Portugal",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
-    "abbreviations": "WET,WEST,WEMT,CET"
+    "abbreviations": "WET,WEST,WEMT,CET,CEST"
   },
   {
     "iana": "Europe/Ljubljana",
     "city": "Ljubljana",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SI",
+    "countryName": "Slovenia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4097,11 +4097,11 @@
   {
     "iana": "Europe/Luxembourg",
     "city": "Luxembourg",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LU",
+    "countryName": "Luxembourg",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "BMT,WET,CET,CEST"
+    "abbreviations": "BMT,WET,CET,CEST,WEST"
   },
   {
     "iana": "Europe/Madrid",
@@ -4110,13 +4110,13 @@
     "countryName": "Spain",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "WET,WEST,WEMT,CET"
+    "abbreviations": "WET,WEST,WEMT,CET,CEST"
   },
   {
     "iana": "Europe/Malta",
     "city": "Malta",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MT",
+    "countryName": "Malta",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4124,8 +4124,8 @@
   {
     "iana": "Europe/Mariehamn",
     "city": "Mariehamn",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AX",
+    "countryName": "Åland Islands",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "HMT,EET,EEST"
@@ -4133,20 +4133,20 @@
   {
     "iana": "Europe/Minsk",
     "city": "Minsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BY",
+    "countryName": "Belarus",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "MMT,EET,MSK,CEST"
+    "abbreviations": "MMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Monaco",
     "city": "Monaco",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MC",
+    "countryName": "Monaco",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "PMT,WET,WEST,CEST"
+    "abbreviations": "PMT,WET,WEST,CEST,CET,WEMT"
   },
   {
     "iana": "Europe/Moscow",
@@ -4155,13 +4155,13 @@
     "countryName": "Russia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "MMT,MST,MDST,MSD"
+    "abbreviations": "MMT,MST,MDST,MSD,MSK,EET,EEST"
   },
   {
     "iana": "Europe/Nicosia",
     "city": "Nicosia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CY",
+    "countryName": "Cyprus",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EET,EEST"
@@ -4182,13 +4182,13 @@
     "countryName": "France",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "PMT,WET,WEST,CEST"
+    "abbreviations": "PMT,WET,WEST,CEST,CET,WEMT"
   },
   {
     "iana": "Europe/Podgorica",
     "city": "Podgorica",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "ME",
+    "countryName": "Montenegro",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4197,7 +4197,7 @@
     "iana": "Europe/Prague",
     "city": "Prague",
     "countryCode": "CZ",
-    "countryName": "Czech Republic",
+    "countryName": "Czechia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "PMT,CET,CEST,GMT"
@@ -4205,11 +4205,11 @@
   {
     "iana": "Europe/Riga",
     "city": "Riga",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LV",
+    "countryName": "Latvia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "RMT,LST,EET,MSK"
+    "abbreviations": "RMT,LST,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Rome",
@@ -4223,8 +4223,8 @@
   {
     "iana": "Europe/Samara",
     "city": "Samara",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4232,8 +4232,8 @@
   {
     "iana": "Europe/San_Marino",
     "city": "San Marino",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SM",
+    "countryName": "San Marino",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "RMT,CET,CEST"
@@ -4241,8 +4241,8 @@
   {
     "iana": "Europe/Sarajevo",
     "city": "Sarajevo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BA",
+    "countryName": "Bosnia and Herzegovina",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4250,8 +4250,8 @@
   {
     "iana": "Europe/Saratov",
     "city": "Saratov",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4259,17 +4259,17 @@
   {
     "iana": "Europe/Simferopol",
     "city": "Simferopol",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "SMT,EET,MSK,CEST"
+    "abbreviations": "SMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Skopje",
     "city": "Skopje",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MK",
+    "countryName": "North Macedonia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4277,11 +4277,11 @@
   {
     "iana": "Europe/Sofia",
     "city": "Sofia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BG",
+    "countryName": "Bulgaria",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "IMT,EET,CET,CEST"
+    "abbreviations": "IMT,EET,CET,CEST,EEST"
   },
   {
     "iana": "Europe/Stockholm",
@@ -4295,17 +4295,17 @@
   {
     "iana": "Europe/Tallinn",
     "city": "Tallinn",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "EE",
+    "countryName": "Estonia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "TMT,CET,CEST,EET"
+    "abbreviations": "TMT,CET,CEST,EET,MSK,MSD,EEST"
   },
   {
     "iana": "Europe/Tirane",
     "city": "Tirane",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AL",
+    "countryName": "Albania",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4313,17 +4313,17 @@
   {
     "iana": "Europe/Tiraspol",
     "city": "Tiraspol",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MD",
+    "countryName": "Moldova",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "CMT,BMT,EET,EEST"
+    "abbreviations": "CMT,BMT,EET,EEST,CEST,CET,MSK,MSD"
   },
   {
     "iana": "Europe/Ulyanovsk",
     "city": "Ulyanovsk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4331,17 +4331,17 @@
   {
     "iana": "Europe/Uzhgorod",
     "city": "Uzhgorod",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "KMT,EET,MSK,CEST"
+    "abbreviations": "KMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Vaduz",
     "city": "Vaduz",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LI",
+    "countryName": "Liechtenstein",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "BMT,CET,CEST"
@@ -4349,8 +4349,8 @@
   {
     "iana": "Europe/Vatican",
     "city": "Vatican",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "VA",
+    "countryName": "Holy See",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "RMT,CET,CEST"
@@ -4367,17 +4367,17 @@
   {
     "iana": "Europe/Vilnius",
     "city": "Vilnius",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LT",
+    "countryName": "Lithuania",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "WMT,KMT,CET,EET"
+    "abbreviations": "WMT,KMT,CET,EET,MSK,CEST,MSD,EEST"
   },
   {
     "iana": "Europe/Volgograd",
     "city": "Volgograd",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "MSD,MSK"
@@ -4389,13 +4389,13 @@
     "countryName": "Poland",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "WMT,CET,CEST,EET"
+    "abbreviations": "WMT,CET,CEST,EET,EEST"
   },
   {
     "iana": "Europe/Zagreb",
     "city": "Zagreb",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "HR",
+    "countryName": "Croatia",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST"
@@ -4403,17 +4403,17 @@
   {
     "iana": "Europe/Zaporozhye",
     "city": "Zaporozhye",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "KMT,EET,MSK,CEST"
+    "abbreviations": "KMT,EET,MSK,CEST,CET,MSD,EEST"
   },
   {
     "iana": "Europe/Zurich",
     "city": "Zurich",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CH",
+    "countryName": "Switzerland",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "BMT,CET,CEST"
@@ -4421,8 +4421,8 @@
   {
     "iana": "GB",
     "city": "GB",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -4430,8 +4430,8 @@
   {
     "iana": "GB-Eire",
     "city": "GB-Eire",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
     "abbreviations": "GMT,BST,BDST"
@@ -4484,8 +4484,8 @@
   {
     "iana": "HST",
     "city": "HST",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -600,
     "utcOffsetStr": "-10:00",
     "abbreviations": "HST,HDT,HWT,HPT"
@@ -4493,8 +4493,8 @@
   {
     "iana": "Hongkong",
     "city": "Hongkong",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "HKT,HKST,HKWT,JST"
@@ -4502,8 +4502,8 @@
   {
     "iana": "Iceland",
     "city": "Iceland",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IS",
+    "countryName": "Iceland",
     "utcOffset": 0,
     "utcOffsetStr": "+00:00",
     "abbreviations": "GMT"
@@ -4511,8 +4511,8 @@
   {
     "iana": "Indian/Antananarivo",
     "city": "Antananarivo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MG",
+    "countryName": "Madagascar",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -4520,8 +4520,8 @@
   {
     "iana": "Indian/Chagos",
     "city": "Chagos",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IO",
+    "countryName": "British Indian Ocean Territory",
     "utcOffset": 360,
     "utcOffsetStr": "+06:00",
     "abbreviations": ""
@@ -4529,8 +4529,8 @@
   {
     "iana": "Indian/Christmas",
     "city": "Christmas",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CX",
+    "countryName": "Christmas Island",
     "utcOffset": 420,
     "utcOffsetStr": "+07:00",
     "abbreviations": "BMT"
@@ -4538,8 +4538,8 @@
   {
     "iana": "Indian/Cocos",
     "city": "Cocos",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CC",
+    "countryName": "Cocos Islands",
     "utcOffset": 390,
     "utcOffsetStr": "+06:30",
     "abbreviations": "RMT"
@@ -4547,8 +4547,8 @@
   {
     "iana": "Indian/Comoro",
     "city": "Comoro",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KM",
+    "countryName": "Comoros",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -4556,8 +4556,8 @@
   {
     "iana": "Indian/Kerguelen",
     "city": "Kerguelen",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TF",
+    "countryName": "French Southern Territories",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": "MMT"
@@ -4565,8 +4565,8 @@
   {
     "iana": "Indian/Mahe",
     "city": "Mahe",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SC",
+    "countryName": "Seychelles",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4574,8 +4574,8 @@
   {
     "iana": "Indian/Maldives",
     "city": "Maldives",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MV",
+    "countryName": "Maldives",
     "utcOffset": 300,
     "utcOffsetStr": "+05:00",
     "abbreviations": "MMT"
@@ -4583,8 +4583,8 @@
   {
     "iana": "Indian/Mauritius",
     "city": "Mauritius",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MU",
+    "countryName": "Mauritius",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4592,8 +4592,8 @@
   {
     "iana": "Indian/Mayotte",
     "city": "Mayotte",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "YT",
+    "countryName": "Mayotte",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "EAT"
@@ -4601,8 +4601,8 @@
   {
     "iana": "Indian/Reunion",
     "city": "Reunion",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RE",
+    "countryName": "Réunion",
     "utcOffset": 240,
     "utcOffsetStr": "+04:00",
     "abbreviations": ""
@@ -4610,8 +4610,8 @@
   {
     "iana": "Iran",
     "city": "Iran",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IR",
+    "countryName": "Iran",
     "utcOffset": 210,
     "utcOffsetStr": "+03:30",
     "abbreviations": "TMT"
@@ -4619,8 +4619,8 @@
   {
     "iana": "Israel",
     "city": "Israel",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "IL",
+    "countryName": "Israel",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "JMT,IST,IDT,IDDT"
@@ -4628,8 +4628,8 @@
   {
     "iana": "Jamaica",
     "city": "Jamaica",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "JM",
+    "countryName": "Jamaica",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "KMT,EST,EDT"
@@ -4637,8 +4637,8 @@
   {
     "iana": "Japan",
     "city": "Japan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "JP",
+    "countryName": "Japan",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": "JST,JDT"
@@ -4646,8 +4646,8 @@
   {
     "iana": "Kwajalein",
     "city": "Kwajalein",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MH",
+    "countryName": "Marshall Islands",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4655,8 +4655,8 @@
   {
     "iana": "Libya",
     "city": "Libya",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "LY",
+    "countryName": "Libya",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
     "abbreviations": "CET,CEST,EET"
@@ -4664,17 +4664,17 @@
   {
     "iana": "MET",
     "city": "MET",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "BE",
+    "countryName": "Belgium",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "BMT,WET,CET,CEST"
+    "abbreviations": "BMT,WET,CET,CEST,WEST"
   },
   {
     "iana": "MST",
     "city": "MST",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "MST,MDT,MWT"
@@ -4682,8 +4682,8 @@
   {
     "iana": "MST7MDT",
     "city": "MST7MDT",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,MDT,MWT,MPT"
@@ -4691,17 +4691,17 @@
   {
     "iana": "Mexico/BajaNorte",
     "city": "BajaNorte",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
-    "abbreviations": "MST,PST,PDT,PWT"
+    "abbreviations": "MST,PST,PDT,PWT,PPT"
   },
   {
     "iana": "Mexico/BajaSur",
     "city": "BajaSur",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "MST,CST,MDT"
@@ -4709,17 +4709,17 @@
   {
     "iana": "Mexico/General",
     "city": "General",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MX",
+    "countryName": "Mexico",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
-    "abbreviations": "MST,CST,MDT,CDT"
+    "abbreviations": "MST,CST,MDT,CDT,CWT"
   },
   {
     "iana": "NZ",
     "city": "NZ",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NZ",
+    "countryName": "New Zealand",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": "NZMT,NZST,NZDT"
@@ -4727,8 +4727,8 @@
   {
     "iana": "NZ-CHAT",
     "city": "NZ-CHAT",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NZ",
+    "countryName": "New Zealand",
     "utcOffset": 825,
     "utcOffsetStr": "+13:45",
     "abbreviations": ""
@@ -4736,8 +4736,8 @@
   {
     "iana": "Navajo",
     "city": "Navajo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,MDT,MWT,MPT"
@@ -4745,8 +4745,8 @@
   {
     "iana": "PRC",
     "city": "PRC",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CN",
+    "countryName": "China",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,CDT"
@@ -4754,8 +4754,8 @@
   {
     "iana": "PST8PDT",
     "city": "PST8PDT",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "PST,PDT,PWT,PPT"
@@ -4763,8 +4763,8 @@
   {
     "iana": "Pacific/Apia",
     "city": "Apia",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "WS",
+    "countryName": "Samoa",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": ""
@@ -4781,8 +4781,8 @@
   {
     "iana": "Pacific/Bougainville",
     "city": "Bougainville",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PG",
+    "countryName": "Papua New Guinea",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": "PMMT"
@@ -4790,8 +4790,8 @@
   {
     "iana": "Pacific/Chatham",
     "city": "Chatham",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NZ",
+    "countryName": "New Zealand",
     "utcOffset": 825,
     "utcOffsetStr": "+13:45",
     "abbreviations": ""
@@ -4799,8 +4799,8 @@
   {
     "iana": "Pacific/Chuuk",
     "city": "Chuuk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "PMMT"
@@ -4808,8 +4808,8 @@
   {
     "iana": "Pacific/Easter",
     "city": "Easter",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CL",
+    "countryName": "Chile",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
     "abbreviations": "EMT"
@@ -4817,8 +4817,8 @@
   {
     "iana": "Pacific/Efate",
     "city": "Efate",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "VU",
+    "countryName": "Vanuatu",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -4826,8 +4826,8 @@
   {
     "iana": "Pacific/Enderbury",
     "city": "Enderbury",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KI",
+    "countryName": "Kiribati",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": ""
@@ -4835,8 +4835,8 @@
   {
     "iana": "Pacific/Fakaofo",
     "city": "Fakaofo",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TK",
+    "countryName": "Tokelau",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": ""
@@ -4844,8 +4844,8 @@
   {
     "iana": "Pacific/Fiji",
     "city": "Fiji",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FJ",
+    "countryName": "Fiji",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4853,8 +4853,8 @@
   {
     "iana": "Pacific/Funafuti",
     "city": "Funafuti",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TV",
+    "countryName": "Tuvalu",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4862,8 +4862,8 @@
   {
     "iana": "Pacific/Galapagos",
     "city": "Galapagos",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "EC",
+    "countryName": "Ecuador",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": ""
@@ -4871,8 +4871,8 @@
   {
     "iana": "Pacific/Gambier",
     "city": "Gambier",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PF",
+    "countryName": "French Polynesia",
     "utcOffset": -540,
     "utcOffsetStr": "-09:00",
     "abbreviations": ""
@@ -4880,8 +4880,8 @@
   {
     "iana": "Pacific/Guadalcanal",
     "city": "Guadalcanal",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SB",
+    "countryName": "Solomon Islands",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -4889,8 +4889,8 @@
   {
     "iana": "Pacific/Guam",
     "city": "Guam",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "GU",
+    "countryName": "Guam",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "GST,GDT"
@@ -4907,8 +4907,8 @@
   {
     "iana": "Pacific/Johnston",
     "city": "Johnston",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UM",
+    "countryName": "United States Minor Outlying Islands",
     "utcOffset": -600,
     "utcOffsetStr": "-10:00",
     "abbreviations": "HST,HDT,HWT,HPT"
@@ -4916,8 +4916,8 @@
   {
     "iana": "Pacific/Kanton",
     "city": "Kanton",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KI",
+    "countryName": "Kiribati",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": ""
@@ -4925,8 +4925,8 @@
   {
     "iana": "Pacific/Kiritimati",
     "city": "Kiritimati",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KI",
+    "countryName": "Kiribati",
     "utcOffset": 840,
     "utcOffsetStr": "+14:00",
     "abbreviations": ""
@@ -4934,8 +4934,8 @@
   {
     "iana": "Pacific/Kosrae",
     "city": "Kosrae",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -4943,8 +4943,8 @@
   {
     "iana": "Pacific/Kwajalein",
     "city": "Kwajalein",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MH",
+    "countryName": "Marshall Islands",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4952,8 +4952,8 @@
   {
     "iana": "Pacific/Majuro",
     "city": "Majuro",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MH",
+    "countryName": "Marshall Islands",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4961,8 +4961,8 @@
   {
     "iana": "Pacific/Marquesas",
     "city": "Marquesas",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PF",
+    "countryName": "French Polynesia",
     "utcOffset": -570,
     "utcOffsetStr": "-09:30",
     "abbreviations": ""
@@ -4970,8 +4970,8 @@
   {
     "iana": "Pacific/Midway",
     "city": "Midway",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UM",
+    "countryName": "United States Minor Outlying Islands",
     "utcOffset": -660,
     "utcOffsetStr": "-11:00",
     "abbreviations": "SST"
@@ -4979,8 +4979,8 @@
   {
     "iana": "Pacific/Nauru",
     "city": "Nauru",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NR",
+    "countryName": "Nauru",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -4988,8 +4988,8 @@
   {
     "iana": "Pacific/Niue",
     "city": "Niue",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NU",
+    "countryName": "Niue",
     "utcOffset": -660,
     "utcOffsetStr": "-11:00",
     "abbreviations": ""
@@ -4997,8 +4997,8 @@
   {
     "iana": "Pacific/Norfolk",
     "city": "Norfolk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NF",
+    "countryName": "Norfolk Island",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -5006,8 +5006,8 @@
   {
     "iana": "Pacific/Noumea",
     "city": "Noumea",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "NC",
+    "countryName": "New Caledonia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -5015,8 +5015,8 @@
   {
     "iana": "Pacific/Pago_Pago",
     "city": "Pago Pago",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AS",
+    "countryName": "American Samoa",
     "utcOffset": -660,
     "utcOffsetStr": "-11:00",
     "abbreviations": "SST"
@@ -5024,8 +5024,8 @@
   {
     "iana": "Pacific/Palau",
     "city": "Palau",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PW",
+    "countryName": "Palau",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": ""
@@ -5033,8 +5033,8 @@
   {
     "iana": "Pacific/Pitcairn",
     "city": "Pitcairn",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PN",
+    "countryName": "Pitcairn",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
     "abbreviations": ""
@@ -5042,8 +5042,8 @@
   {
     "iana": "Pacific/Pohnpei",
     "city": "Pohnpei",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -5051,8 +5051,8 @@
   {
     "iana": "Pacific/Ponape",
     "city": "Ponape",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 660,
     "utcOffsetStr": "+11:00",
     "abbreviations": ""
@@ -5060,8 +5060,8 @@
   {
     "iana": "Pacific/Port_Moresby",
     "city": "Port Moresby",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PG",
+    "countryName": "Papua New Guinea",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "PMMT"
@@ -5069,8 +5069,8 @@
   {
     "iana": "Pacific/Rarotonga",
     "city": "Rarotonga",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "CK",
+    "countryName": "Cook Islands",
     "utcOffset": -600,
     "utcOffsetStr": "-10:00",
     "abbreviations": ""
@@ -5078,8 +5078,8 @@
   {
     "iana": "Pacific/Saipan",
     "city": "Saipan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "MP",
+    "countryName": "Northern Mariana Islands",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "GST,GDT"
@@ -5087,8 +5087,8 @@
   {
     "iana": "Pacific/Samoa",
     "city": "Samoa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AS",
+    "countryName": "American Samoa",
     "utcOffset": -660,
     "utcOffsetStr": "-11:00",
     "abbreviations": "SST"
@@ -5096,8 +5096,8 @@
   {
     "iana": "Pacific/Tahiti",
     "city": "Tahiti",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PF",
+    "countryName": "French Polynesia",
     "utcOffset": -600,
     "utcOffsetStr": "-10:00",
     "abbreviations": ""
@@ -5105,8 +5105,8 @@
   {
     "iana": "Pacific/Tarawa",
     "city": "Tarawa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KI",
+    "countryName": "Kiribati",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -5114,8 +5114,8 @@
   {
     "iana": "Pacific/Tongatapu",
     "city": "Tongatapu",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TO",
+    "countryName": "Tonga",
     "utcOffset": 780,
     "utcOffsetStr": "+13:00",
     "abbreviations": ""
@@ -5123,8 +5123,8 @@
   {
     "iana": "Pacific/Truk",
     "city": "Truk",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "PMMT"
@@ -5132,8 +5132,8 @@
   {
     "iana": "Pacific/Wake",
     "city": "Wake",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "UM",
+    "countryName": "United States Minor Outlying Islands",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -5141,8 +5141,8 @@
   {
     "iana": "Pacific/Wallis",
     "city": "Wallis",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "WF",
+    "countryName": "Wallis and Futuna",
     "utcOffset": 720,
     "utcOffsetStr": "+12:00",
     "abbreviations": ""
@@ -5150,8 +5150,8 @@
   {
     "iana": "Pacific/Yap",
     "city": "Yap",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "FM",
+    "countryName": "Micronesia",
     "utcOffset": 600,
     "utcOffsetStr": "+10:00",
     "abbreviations": "PMMT"
@@ -5159,26 +5159,26 @@
   {
     "iana": "Poland",
     "city": "Poland",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PL",
+    "countryName": "Poland",
     "utcOffset": 120,
     "utcOffsetStr": "+02:00",
-    "abbreviations": "WMT,CET,CEST,EET"
+    "abbreviations": "WMT,CET,CEST,EET,EEST"
   },
   {
     "iana": "Portugal",
     "city": "Portugal",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PT",
+    "countryName": "Portugal",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
-    "abbreviations": "WET,WEST,WEMT,CET"
+    "abbreviations": "WET,WEST,WEMT,CET,CEST"
   },
   {
     "iana": "ROC",
     "city": "ROC",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "CST,JST,CDT"
@@ -5186,8 +5186,8 @@
   {
     "iana": "ROK",
     "city": "ROK",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "KR",
+    "countryName": "South Korea",
     "utcOffset": 540,
     "utcOffsetStr": "+09:00",
     "abbreviations": "KST,JST,KDT"
@@ -5195,8 +5195,8 @@
   {
     "iana": "Singapore",
     "city": "Singapore",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "SG",
+    "countryName": "Singapore",
     "utcOffset": 480,
     "utcOffsetStr": "+08:00",
     "abbreviations": "SMT"
@@ -5204,8 +5204,8 @@
   {
     "iana": "Turkey",
     "city": "Turkey",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
     "abbreviations": "IMT,EET,EEST"
@@ -5222,26 +5222,26 @@
   {
     "iana": "US/Alaska",
     "city": "Alaska",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -480,
     "utcOffsetStr": "-08:00",
-    "abbreviations": "AST,AWT,APT,AHST"
+    "abbreviations": "AST,AWT,APT,AHST,AHDT,YST,AKST,AKDT"
   },
   {
     "iana": "US/Aleutian",
     "city": "Aleutian",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -540,
     "utcOffsetStr": "-09:00",
-    "abbreviations": "NST,NWT,NPT,BST"
+    "abbreviations": "NST,NWT,NPT,BST,BDT,AHST,HST,HDT"
   },
   {
     "iana": "US/Arizona",
     "city": "Arizona",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "MST,MDT,MWT"
@@ -5249,26 +5249,26 @@
   {
     "iana": "US/Central",
     "city": "Central",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,EST,CWT"
+    "abbreviations": "CST,CDT,EST,CWT,CPT"
   },
   {
     "iana": "US/East-Indiana",
     "city": "East-Indiana",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST,EDT"
   },
   {
     "iana": "US/Eastern",
     "city": "Eastern",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
     "abbreviations": "EST,EDT,EWT,EPT"
@@ -5276,8 +5276,8 @@
   {
     "iana": "US/Hawaii",
     "city": "Hawaii",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -600,
     "utcOffsetStr": "-10:00",
     "abbreviations": "HST,HDT,HWT,HPT"
@@ -5285,26 +5285,26 @@
   {
     "iana": "US/Indiana-Starke",
     "city": "Indiana-Starke",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -300,
     "utcOffsetStr": "-05:00",
-    "abbreviations": "CST,CDT,CWT,CPT"
+    "abbreviations": "CST,CDT,CWT,CPT,EST"
   },
   {
     "iana": "US/Michigan",
     "city": "Michigan",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -240,
     "utcOffsetStr": "-04:00",
-    "abbreviations": "CST,EST,EWT,EPT"
+    "abbreviations": "CST,EST,EWT,EPT,EDT"
   },
   {
     "iana": "US/Mountain",
     "city": "Mountain",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -360,
     "utcOffsetStr": "-06:00",
     "abbreviations": "MST,MDT,MWT,MPT"
@@ -5312,8 +5312,8 @@
   {
     "iana": "US/Pacific",
     "city": "Pacific",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "US",
+    "countryName": "United States of America",
     "utcOffset": -420,
     "utcOffsetStr": "-07:00",
     "abbreviations": "PST,PDT,PWT,PPT"
@@ -5321,8 +5321,8 @@
   {
     "iana": "US/Samoa",
     "city": "Samoa",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "AS",
+    "countryName": "American Samoa",
     "utcOffset": -660,
     "utcOffsetStr": "-11:00",
     "abbreviations": "SST"
@@ -5348,20 +5348,20 @@
   {
     "iana": "W-SU",
     "city": "W-SU",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "RU",
+    "countryName": "Russia",
     "utcOffset": 180,
     "utcOffsetStr": "+03:00",
-    "abbreviations": "MMT,MST,MDST,MSD"
+    "abbreviations": "MMT,MST,MDST,MSD,MSK,EET,EEST"
   },
   {
     "iana": "WET",
     "city": "WET",
-    "countryCode": "",
-    "countryName": "",
+    "countryCode": "PT",
+    "countryName": "Portugal",
     "utcOffset": 60,
     "utcOffsetStr": "+01:00",
-    "abbreviations": "WET,WEST,WEMT,CET"
+    "abbreviations": "WET,WEST,WEMT,CET,CEST"
   },
   {
     "iana": "Zulu",

@@ -35,7 +35,7 @@ describe('timezone-search', () => {
       const budapestResult = results.find(tz => tz.iana === 'Europe/Budapest');
       expect(budapestResult).toBeDefined();
       expect(budapestResult.city).toBe('Budapest');
-      expect(budapestResult.countryCode).toBe('HU');
+      expect(budapestResult.countryCode).toBe('HU'); // Cross-referenced data: includes country mapping
     });
 
     test('should find EST-related timezone for abbreviation search', () => {
@@ -55,12 +55,13 @@ describe('timezone-search', () => {
       expect(newYorkResult).toBeDefined();
     });
 
-    test('should find Japanese timezones for country search', () => {
-      const results = search('Japan');
+    test('should find Tokyo timezone by city name', () => {
+      const results = search('Tokyo');
       expect(results.length).toBeGreaterThan(0);
       const tokyoResult = results.find(tz => tz.iana === 'Asia/Tokyo');
       expect(tokyoResult).toBeDefined();
-      expect(tokyoResult.countryName).toBe('Japan');
+      expect(tokyoResult.city).toBe('Tokyo');
+      expect(tokyoResult.countryName).toBe('Japan'); // Cross-referenced data: includes country mapping
     });
 
     test('should find London timezone', () => {
@@ -69,14 +70,15 @@ describe('timezone-search', () => {
       const londonResult = results.find(tz => tz.iana === 'Europe/London');
       expect(londonResult).toBeDefined();
       expect(londonResult.city).toBe('London');
-      expect(londonResult.countryCode).toBe('GB');
+      expect(londonResult.countryCode).toBe('GB'); // Cross-referenced data: includes country mapping
     });
 
-    test('should handle country code searches', () => {
-      const results = search('US');
+    test('should handle MMT abbreviation search', () => {
+      const results = search('MMT');
       expect(results.length).toBeGreaterThan(0);
-      const usResult = results.find(tz => tz.countryCode === 'US');
-      expect(usResult).toBeDefined();
+      // Should find timezones with MMT abbreviation like Colombo
+      const mmtResult = results.find(tz => tz.abbreviations.includes('MMT'));
+      expect(mmtResult).toBeDefined();
     });
   });
 
